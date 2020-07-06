@@ -1,0 +1,26 @@
+
+
+pwd - print workind directory
+ls - list folders/files 
+la - list folders/files(includes hidden files)
+clear - clears screen
+cd - change directory
+cd .. - back folder
+mkdir FOLDERname - creats folder
+touch FILEname - creats files
+echo "Hello John" >> filename.txt - creates (if not exits) & writes this in it.
+echo -e "Hello \n\t John" >> filename.txt - -e used to consider escape sequences
+code FILEname - opens in VS-code
+rm FILEname - removes file
+rm *-.txt - removes every ANYTHING.txt file
+rm -rf FOLDERname - removes folder   (rf - recurrsive force)
+cd ~ - default location
+mv oldname newname - renaming of file
+mv FILEname ./FOLDERname - moves file to that folder(both are in same folder)
+mv FILEname .. - moves file to back folder
+mv /home/shree/dekstop/FILEname /home/shree/downloads
+cp file1 file2 - copying file1 to file2
+cp FILEname ./FOLDERname - making copy of file
+
+
+exit - exits terminal

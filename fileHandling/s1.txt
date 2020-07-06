@@ -1,0 +1,4 @@
+salary of John is $899
+salary of Jenny is $899
+salary of James is $50
+salary of Jelly is $10
